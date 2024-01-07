@@ -15,7 +15,7 @@ public class MergeSort {
 		 }
        
 	}
-	
+
 	public static int[] mergeSort(int[] a) {
 		
 		if(a.length==1) {

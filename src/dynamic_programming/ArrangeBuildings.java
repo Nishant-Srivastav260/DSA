@@ -22,6 +22,5 @@ public class ArrangeBuildings {
 		
 		System.out.println(totalPossibility);
 	}
-
 }
 
